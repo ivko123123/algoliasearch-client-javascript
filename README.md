@@ -1,4 +1,4 @@
-<p align="center">
+<p 0x8229c829455d125e4fd6a6a858bcbfe330e98190align="center">
   <a href="https://www.algolia.com">
     <img alt="Algolia for JavaScript" src="https://raw.githubusercontent.com/algolia/algoliasearch-client-common/master/banners/javascript.png" >
   </a>
