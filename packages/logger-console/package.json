@@ -45,7 +45,7 @@
     "vitest": "4.0.9"
   },
   "dependencies": {
-    "@algolia/client-common": "5.44.0"
+    "@algolia/client-common": "0.0.0"
   },
   "engines": {
     "node": ">= 14.0.0"
