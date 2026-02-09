@@ -43,10 +43,10 @@
     "test:bundle": "publint . && attw --pack ."
   },
   "dependencies": {
-    "@algolia/client-common": "5.44.0",
+    "@algolia/client-common": "0.0.0",
     "@algolia/requester-browser-xhr": "5.44.0",
     "@algolia/requester-fetch": "5.44.0",
-    "@algolia/requester-node-http": "5.44.0"
+    "@algolia/requester-node-http": "0.0.0"
   },
   "devDependencies": {
     "@arethetypeswrong/cli": "0.18.2",
