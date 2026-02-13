@@ -84,8 +84,8 @@
     "@algolia/client-search": "5.44.0",
     "@algolia/ingestion": "1.44.0",
     "@algolia/monitoring": "1.44.0",
-    "@algolia/recommend": "5.44.0",
-    "@algolia/requester-browser-xhr": "5.44.0",
+    "@algolia/recommend": "4.10.2",
+    "@algolia/requester-browser-xhr": "0.0.0",
     "@algolia/requester-fetch": "5.44.0",
     "@algolia/requester-node-http": "5.44.0"
   },
